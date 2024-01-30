@@ -1,5 +1,5 @@
-# ContainerizationTechnologies-TP3-AlexandreCorreia_CDOF1
-TP3 of Containerization Technologies of Alexandre Correia
+# ContainerizationTechnologies-TD3-AlexandreCorreia_CDOF1
+TD3 of Containerization Technologies of Alexandre Correia
 
 # How to run:
 
